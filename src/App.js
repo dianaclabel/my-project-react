@@ -4,9 +4,13 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Curso de react</h1>
-      <input type="text"></input>
-      <br />
+      <div>
+        <div>
+          {" "}
+          <img alt="rey" src=""></img>
+        </div>
+        <p></p>
+      </div>
     </div>
   );
 }
